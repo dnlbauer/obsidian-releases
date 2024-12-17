@@ -14565,6 +14565,13 @@
     "author": "al3xw",
     "description": "Forces Markdown files in specified folders to open in read-only mode.",
     "repo": "al3xw/force-read-mode"
-  }
+    },
+    {
+        "id": "dataview-autocompletion",
+        "name": "Dataview Autocompletion",
+        "author": "Daniel Bauer",
+        "description": "Adds autocompletion to Dataview metadata fields",
+        "repo": "dnlbauer/obsidian-dataview-autocompletion"
+    }
 ]
 
